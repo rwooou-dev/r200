@@ -1,0 +1,19 @@
+:root{
+  --gold:#C9A574;
+  --gold-2:#A67C4E;
+  --brown:#8C6239;
+  --brown-d:#6B4A2B;
+  --ink:#3E2723;
+  --dark:#161412;
+  --cream:#F7F4EB;
+  --sand:#EAD7B4;
+  --line:#E6DCC8;
+  --white:#FFFFFF;
+  --muted:#6f655b;
+  --radius:18px;
+  --shadow:0 10px 30px rgba(22,20,18,.08);
+  --grad:linear-gradient(135deg,#C9A574 0%,#A67C4E 55%,#6B4A2B 100%);
+  --font-ar:'Cairo',sans-serif;
+  --font-en:'Montserrat','Inter',sans-serif;
+  --wrap:1200px;
+}
